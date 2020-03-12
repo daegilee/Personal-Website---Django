@@ -3,7 +3,7 @@
 My Django-based personal website adapted from here: https://github.com/vladislavalerievich/Django-personal-website
 
 # Changes from OG and resources:
-Updated Django version to 2.0.13 in requirements.txt
+Updated Django version to 2.2.10 in requirements.txt due to security issues in prior version (2.0.13).
 
 Configuring email settings: https://medium.com/@_christopher/how-to-send-emails-with-python-django-through-google-smtp-server-for-free-22ea6ea0fb8e
 
